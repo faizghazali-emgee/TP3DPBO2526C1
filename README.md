@@ -120,10 +120,10 @@ Berikut merupakan hasil eksekusi program C++ pada sistem **Bimbingan Skripsi**:
 ### Output Program Python
 
 Berikut merupakan hasil eksekusi program Python pada sistem **Bimbingan Skripsi**:
-<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/DataSebelum1.png" />
-<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/DataSebelum2.png" />
-<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/DataSetelah1.png" />
-<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/DataSetelah2.png" />
-<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/DataBaru3.png" />
+<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/PySebelum1.png" />
+<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/PySebelum2.png" />
+<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/PySetelah1.png" />
+<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/PySetelah2.png" />
+<img width="1203" height="781" alt="Data Sebelum" src="Python/Dokumentasi/PyBaru3.png" />
 
 ```
