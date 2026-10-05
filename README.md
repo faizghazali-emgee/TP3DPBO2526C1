@@ -115,7 +115,7 @@ Berikut merupakan hasil eksekusi program C++ pada sistem **Bimbingan Skripsi**:
 <img width="1203" height="781" alt="Data Sebelum" src="CPP/Dokumentasi/DataSetelah.png" />
 <img width="1203" height="781" alt="Data Sebelum" src="CPP/Dokumentasi/DataSetelah2.png" />
 <img width="1203" height="781" alt="Data Sebelum" src="CPP/Dokumentasi/DataBaru.png" />
-```
+
 
 ### Output Program Python
 
